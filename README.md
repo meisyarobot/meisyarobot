@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meisya Robot</h1>
 <h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meisyarobot&label=Profile%20views&color=0e75b6&style=flat" alt="meisyarobot" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://t.me/boyschell](https://t.me/boyschell)
 
 - 📝 I regularly write articles on [https://t.me/memekcode](https://t.me/memekcode)
@@ -23,5 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meisyarobot&show_icons=true&locale=en&layout=compact" alt="meisyarobot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meisyarobot&show_icons=true&locale=en" alt="meisyarobot" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meisyarobot&label=Profile%20views&color=blue&style=flat" alt="meisyarobot" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meisyarobot&" alt="meisyarobot" /></p>
