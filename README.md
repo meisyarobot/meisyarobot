@@ -1,6 +1,13 @@
 # ʜɪ 👋, ɪ'ᴍ ᴍᴇɪsʏᴀʀᴏʙᴏᴛ
 
-# - Lu mau nyari apa anjeng gw bukan dev
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+
+ -  Lu mau nyari apa memek gw bukan developer  <br>
+ -  Jangan ngarep lebih di sini anj !
+ -  kalo mau tanya repo ke @boyschell
 
 
 
