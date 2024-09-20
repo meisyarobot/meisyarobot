@@ -2,6 +2,11 @@
 <h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
 
 
+## 🎵 play?
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/album/3tklE2Fgw1hCIUstIwPBJ)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://telegram.com/boyschell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="boyschell" height="30" width="40" /></a>
