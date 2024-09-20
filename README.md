@@ -2,10 +2,6 @@
 <h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
 
 
-## 🎵 play?
-
-[![Spotify](https://spotify-astro-transitions.vercel.app/playlist/5a/api?theme=dark&rainbow=true&scan=true)](https://spotify-astro-transitions.vercel.app/playlist/5a)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
