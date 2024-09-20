@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meisya Robot</h1>
 <h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
