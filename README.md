@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Meisya Robot</h1>
-<h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
+# ʜɪ 👋, ɪ'ᴍ ᴍᴇɪsʏᴀʀᴏʙᴏᴛ
+
+# - Lu mau nyari apa anjeng gw bukan dev
 
 
 
