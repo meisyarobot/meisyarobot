@@ -4,7 +4,7 @@
 
 ## 🎵 play?
 
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/album/3tklE2Fgw1hCIUstIwPBJ)
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/album/)
 
 
 <h3 align="left">Connect with me:</h3>
