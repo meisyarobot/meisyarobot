@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
  -  Jangan ngarep lebih di sini anj !
  -  kalo mau tanya repo ke @boyschell
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
