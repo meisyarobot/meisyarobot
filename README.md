@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meisya Robot</h1>
 <h3 align="center">Saya Dari negara Indonesia tepatnya di kota Jepara</h3>
 
-- 👨‍💻 All of my projects are available at [https://t.me/boyschell](https://t.me/boyschell)
-
-- 📝 I regularly write articles on [https://t.me/memekcode](https://t.me/memekcode)
-
-- 📫 How to reach me **meisyarobot@gmail.com**
-
-- 📄 Know about my experiences [https://t.me/chellsupport](https://t.me/chellsupport)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
